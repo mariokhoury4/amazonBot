@@ -1,6 +1,6 @@
-# amazonBot
+# AmazonBot
 Check the amazon Price of an item and email you if the price is bellow a certain level
-# pre requirements
+# Pre-Requirements
 - You should have chrome installed in your computer   
 - You should downlaod chrome driver matching the version of chrome you have installed on your computer   
 # Change to do in the code

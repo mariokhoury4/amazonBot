@@ -1,1 +1,1 @@
-EMAIL_RECEIVER = "mariokhoury23798@gmail.com"
+EMAIL_RECEIVER = "receciverEmail@gmail.com"
